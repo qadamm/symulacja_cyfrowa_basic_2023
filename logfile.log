@@ -1,0 +1,50 @@
+INFO:root:Liczba stworzonych użytkowników: 530
+INFO:root:Liczba przełączeń: 939
+INFO:root:Liczba usuniętych użytkowników przez dystans: 406
+INFO:root:Liczba usuniętych użytkowników przez rozłączenie: 94
+ERROR:root:TIME: %s | KONIEC SYMULACJI
+INFO:root:Liczba stworzonych użytkowników: 538
+INFO:root:Liczba przełączeń: 863
+INFO:root:Liczba usuniętych użytkowników przez dystans: 389
+INFO:root:Liczba usuniętych użytkowników przez rozłączenie: 111
+ERROR:root:TIME: %s | KONIEC SYMULACJI
+INFO:root:Liczba stworzonych użytkowników: 542
+INFO:root:Liczba przełączeń: 806
+INFO:root:Liczba usuniętych użytkowników przez dystans: 383
+INFO:root:Liczba usuniętych użytkowników przez rozłączenie: 117
+ERROR:root:TIME: %s | KONIEC SYMULACJI
+INFO:root:Liczba stworzonych użytkowników: 531
+INFO:root:Liczba przełączeń: 805
+INFO:root:Liczba usuniętych użytkowników przez dystans: 376
+INFO:root:Liczba usuniętych użytkowników przez rozłączenie: 124
+ERROR:root:TIME: %s | KONIEC SYMULACJI
+INFO:root:Liczba stworzonych użytkowników: 544
+INFO:root:Liczba przełączeń: 844
+INFO:root:Liczba usuniętych użytkowników przez dystans: 405
+INFO:root:Liczba usuniętych użytkowników przez rozłączenie: 95
+ERROR:root:TIME: %s | KONIEC SYMULACJI
+INFO:root:Liczba stworzonych użytkowników: 539
+INFO:root:Liczba przełączeń: 845
+INFO:root:Liczba usuniętych użytkowników przez dystans: 401
+INFO:root:Liczba usuniętych użytkowników przez rozłączenie: 99
+ERROR:root:TIME: %s | KONIEC SYMULACJI
+INFO:root:Liczba stworzonych użytkowników: 529
+INFO:root:Liczba przełączeń: 838
+INFO:root:Liczba usuniętych użytkowników przez dystans: 385
+INFO:root:Liczba usuniętych użytkowników przez rozłączenie: 115
+ERROR:root:TIME: %s | KONIEC SYMULACJI
+INFO:root:Liczba stworzonych użytkowników: 536
+INFO:root:Liczba przełączeń: 860
+INFO:root:Liczba usuniętych użytkowników przez dystans: 388
+INFO:root:Liczba usuniętych użytkowników przez rozłączenie: 112
+ERROR:root:TIME: %s | KONIEC SYMULACJI
+INFO:root:Liczba stworzonych użytkowników: 543
+INFO:root:Liczba przełączeń: 823
+INFO:root:Liczba usuniętych użytkowników przez dystans: 390
+INFO:root:Liczba usuniętych użytkowników przez rozłączenie: 110
+ERROR:root:TIME: %s | KONIEC SYMULACJI
+INFO:root:Liczba stworzonych użytkowników: 549
+INFO:root:Liczba przełączeń: 880
+INFO:root:Liczba usuniętych użytkowników przez dystans: 397
+INFO:root:Liczba usuniętych użytkowników przez rozłączenie: 103
+ERROR:root:TIME: %s | KONIEC SYMULACJI
